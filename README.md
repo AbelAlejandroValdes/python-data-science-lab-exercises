@@ -1,0 +1,1 @@
+A collection of AI and Data Science exercises implemented in Python. Features Jupyter notebooks, pandas, NumPy, matplotlib, and other essential data science libraries for machine learning and data analysis projects.
